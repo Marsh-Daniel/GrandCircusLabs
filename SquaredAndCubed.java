@@ -25,3 +25,11 @@ public class SquaredAndCubed {
 		input.close();
 	}
 }
+
+
+
+
+
+
+
+
